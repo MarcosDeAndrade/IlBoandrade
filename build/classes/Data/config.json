@@ -1,0 +1,15 @@
+{
+    "workTime" : "60",
+    "timeForClosing" : "8",
+    "eProdLimit" : "3",
+    "mProdLimit" : "4",
+    "dProdLimit" : "2",
+    "waitersLimit" : "6",
+    "eProdInit" : "1",
+    "mProdInit" : "3",
+    "dProdInit" : "1",
+    "waiterInit" : "2",
+    "eMesLimit" : "20",
+    "mMesLimit" : "30",
+    "dMesLimit" : "10"
+}
